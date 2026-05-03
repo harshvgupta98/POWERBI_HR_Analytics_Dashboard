@@ -177,7 +177,7 @@ To deliver an interactive visual tool that:
 HR_Analytics_Dashboard/
 ├── HR_Analytics_Dashboard.pbit              # Power BI Template file
 ├── HR_Data.xlsx                             # Source dataset
-├── Snapshot_of_HR_Analytics_Dashboard.png  # Dashboard preview
-├── LICENSE                                  # MIT License
-└── README.md
+├── README.md
+└── Snapshot_of_HR_Analytics_Dashboard.png   # Dashboard preview
+
 ```
