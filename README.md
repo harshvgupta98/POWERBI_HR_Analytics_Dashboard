@@ -167,7 +167,7 @@ To deliver an interactive visual tool that:
 
 ## 📸 Dashboard Preview
 
-![HR Analytics Dashboard](Snapshot_of_HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](https://github.com/harshvgupta98/POWERBI_HR_Analytics_Dashboard/blob/main/Snapshot%20of%20HR%20Analytics%20Dashboard.png)
 
 ---
 
